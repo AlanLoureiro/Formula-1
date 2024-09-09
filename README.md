@@ -1,4 +1,4 @@
-## **README.md Descontraído para sua Aplicação de Pesquisa de Pilotos de F1**
+## Desvendandos de Pilotos de F1 - Imersão Dev com Google Gemini**
 
 ### ️ **Lendas da Fórmula 1: Sua Enciclopédia Pessoal**
 
